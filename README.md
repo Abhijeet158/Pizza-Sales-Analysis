@@ -58,7 +58,7 @@ The dataset includes:
 
 ---
 
-##  How to Use:
+##  How to Use:  
 
 1. Import dataset into MySQL
 2. Run SQL queries
@@ -66,9 +66,26 @@ The dataset includes:
 
 ---
 
-##  Author:
+##  Dataset
 
+The dataset used in this project contains pizza sales data and is organized into the following tables:
+
+* **orders**: Contains order date and time information
+* **order_details**: Includes quantity of pizzas per order
+* **pizzas**: Contains pizza size and price details
+* **pizza_types**: Includes pizza name and category
+
+###  Dataset Source
+
+The dataset is provided for learning and practice purposes.
+
+###  File Location
+
+The dataset file is available in the `/dataset` folder of this repository.
+
+
+---
+
+##  Author:
 Abhijeet Kingaonkar
-Aspiring Data Analyst
-Abhijeet Kingaonikar
 Aspiring Data Analyst
